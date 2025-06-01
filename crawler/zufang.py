@@ -16,8 +16,8 @@ headers = {
     "Host": "app.api.ke.com"
 }
 # target city
-city_id = 110000  # beijing
-city_abbr = "bj"
+city_id = 370200  # beijing
+city_abbr = "qd"
 
 
 # Parse Rentplat format api
