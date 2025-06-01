@@ -10,8 +10,8 @@ headers = {
     "User-Agent": "Beike2.6.0;Xiaomi MIX+2; Android 8.0.0"
 }
 # target city
-city_id = 110000  # beijing
-city_abbr = "bj"
+city_id = 370200  # beijing
+city_abbr = "qd"
 # other params
 page_size_limit = 20
 
