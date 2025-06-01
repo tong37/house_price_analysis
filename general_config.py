@@ -1,9 +1,9 @@
 import os, os.path as op
 
 # City
-city_id = 110000
-city_abbr = "bj"
-city_name = "北京"
+city_id = 370200
+city_abbr = "qd"
+city_name = "青岛"
 
 # Task
 main_tasks = ["ershoufang", "zufang"]    # including json/csv/preprocess files
